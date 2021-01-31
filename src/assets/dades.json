@@ -1,0 +1,17 @@
+[{
+    "id": 1,
+    "autor": "Biel Fontbuté Arbonés",
+    "titulo": "Es un título de la página",
+    "srcimg": "https://picsum.photos/1024/480?random=1/",
+    "alt": "Imagen random de un paisaje molón",
+    "texto": "Página web de un gimnasio local",
+    "url": "https://afrikiudl.github.io/practicawd/"
+}, {
+    "id": 2,
+    "autor": "Albert Carreño Egea",
+    "titulo": "Es un título de la página",
+    "srcimg": "https://picsum.photos/1024/480?random=1/",
+    "alt": "Imagen random de un paisaje molón",
+    "texto": "Página web de un gimnasio local",
+    "url": "https://afrikiudl.github.io/practicawd/"
+}]

@@ -1,0 +1,10 @@
+[{
+        "id": 1,
+        "autor": "Albert Carreño & Biel Fontbuté",
+        "titulo": "GYM Fontbuté",
+        "srcimg": "https://img.freepik.com/free-photo/confident-sporty-sixty-year-old-man-with-beard-doing-push-ups-wearing-stylish-black-sports-clothes-while-his-coach-with-clipboard-writing-down-his-results-age-retirement-health-vitality_343059-67.jpg?size=360&ext=jpg&ga=GA1.2.2137663943.1608595200",
+        "alt": "Imagen de un señor haciendo flexiones en un gimnasio",
+        "texto": "Web desarrollada para un gimnasio de Lleida.",
+        "url": "https://bfontbute.github.io/vue_web/"
+    }
+]
